@@ -1,0 +1,13 @@
+FIND: WHAT IS THE ROOT OF P?
+CONNECTED: DO P AND Q HAVE SAME ROOT
+UNION
+TO MERGE COMPONENTS CONTAINING P AND Q, SET THE ID OF P'S ROOT
+TO THE ID OF Q'S ROOT.
+
+
+
+
+defects
+union too expensive
+trees can get tall
+#Lazy-Approach
